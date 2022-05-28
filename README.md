@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krish-Rachamadugu working on smart contracts and Web 3.0 Applications on Blockchain.
+- 👋 Hi, I’m @Krish-Rachamadugu working on smart contracts and Web 3.0 Applications.
 - 💞️ I’m looking to collaborate with other enthusiasts working on Web 3.0.
 - 📫 How to reach me -- LinkedIn - https://www.linkedin.com/in/krishna-rachamadugu/
 
